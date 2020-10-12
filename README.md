@@ -1,2 +1,2 @@
 # Java-Portfolio
-My experiences in Java programs
+My portfolio of Java programs
